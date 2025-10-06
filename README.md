@@ -17,8 +17,8 @@ Pfizer led the sales in 2022, with August as the top-performing month (4.6K in t
 The dashboard enables filtering by city and manufacturer to explore regional differences.
 
 ### Preview
-![Dashboard Overview](dashboard_main.png)
-![KPIs Close-Up](dashboard_kpi.png)
+![Dashboard Overview](dashboard_main.jpg)
+![KPIs Close-Up](dashboard_kpi.jpg)
 
 ### File
 [Pharmaceutical_Sales_Dashboard_2022.pdf](pharmacy_sales_dashboard.pdf)
