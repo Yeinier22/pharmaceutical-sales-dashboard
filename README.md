@@ -21,4 +21,4 @@ The dashboard enables filtering by city and manufacturer to explore regional dif
 ![KPIs Close-Up](dashboard_kpi.png)
 
 ### File
-[Pharmaceutical_Sales_Dashboard_2022.pdf](Pharmaceutical_Sales_Dashboard_2022.pdf)
+[pharmacy_sales_dashboard.pdf](Pharmaceutical_Sales_Dashboard_2022.pdf)
